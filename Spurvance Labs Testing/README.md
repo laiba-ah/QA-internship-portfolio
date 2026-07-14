@@ -1,0 +1,9 @@
+# Spurvance Labs
+
+This folder contains my QA internship work completed during my internship at Spurvance Labs.
+
+## Contents
+- UI/UX Testing Reports
+- Bug Reports
+- Test Cases
+- API Testing
